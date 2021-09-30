@@ -1,0 +1,49 @@
+﻿/* mycss.css*/
+
+
+body {
+   background-image:url(pic/library.jpg);
+   background-repeat: repeat;
+   background-attachment: fixed;   
+   background-color:rgba(255,255,255,0.6);
+   background-blend-mode:lighten;
+   background-size:contain;
+   width:100%;
+   height:100%;
+
+   font-size: 32px;
+   text-align: center;
+   line-height: 50px;   
+   }
+
+
+
+.sample4 {
+    font-size: 35px;
+    font-family: "hannari", cursive;
+}
+
+body {
+font-family:"MS Pゴシック",sans-serif;
+}
+
+
+table,
+
+table{
+    border:3px solid #333;
+    margin:auto;
+}
+
+td {
+    border: 3px solid #333;
+    background-color:white;
+    font-size: 17px;
+ 
+}
+
+thead,
+tfoot {
+    background-color: white;
+    color: black;
+}
